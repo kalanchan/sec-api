@@ -1,0 +1,4 @@
+{
+    "Revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "CostOfRevenue": "CostOfGoodsAndServicesSold"
+}
